@@ -49,3 +49,8 @@ Project License can be found [here](LICENSE).
 
 
 ## Reference
+
+- [language-server-protocol](https://microsoft.github.io/language-server-protocol/)
+- [monaco-editor](https://microsoft.github.io/monaco-editor/)
+- [monaco-languageclient](https://github.com/TypeFox/monaco-languageclient)
+- [vscode-json-languageservice](https://github.com/microsoft/vscode-json-languageservice)
